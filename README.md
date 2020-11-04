@@ -1,5 +1,7 @@
 # SpotSpots
 
+In this project, https://www.sciencedirect.com/science/article/pii/S2352340919306948 paper is implemented and from https://data.mendeley.com/datasets/3f83gxmv57/2 dataset is downloaded.
+
 Running instructions
 This project consists of four .py files: image_processing.py, training_model.py, CNN.py, predict.py
 
